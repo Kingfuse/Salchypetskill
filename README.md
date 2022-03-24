@@ -3,7 +3,7 @@ Never forget to activate your companion skill again, this mod will use the skill
 
 
 
-protocol.387400.map  in data/opcodes
+protocol.387463.map  in data/opcodes
 
 C_PET_SKILL.2.def  in date/definitions
 
